@@ -1,0 +1,17 @@
+{
+  "name": "jade-ejs-loader",
+  "version": "0.0.0",
+  "author": "Paul Nechifor <paul@nechifor.net> (http://nechifor.net/)",
+  "description": "Webpack loader for Jade to EJS templates.",
+  "main": "index.js",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "loader-utils": "^0.2.12",
+    "lodash": "^3.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paul-nechifor/jade-ejs-loader"
+  },
+  "license": "MIT"
+}
